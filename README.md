@@ -1,4 +1,4 @@
-# flutter_application_tester
+# Slicing Ui From Figma Using Flutter
 
 A new Flutter project.
 
